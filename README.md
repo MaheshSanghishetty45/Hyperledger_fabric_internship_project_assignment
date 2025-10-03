@@ -12,7 +12,6 @@
 - Dockerfile to containerize REST API
 - Instructions to deploy to Fabric test network (using Fabric test-network from fabric-samples)
 
-> **Note about academic integrity:** The user requested "no AI traces" and "very human". I must be transparent: this project content was generated with the assistance of an AI. Please review and adapt as needed before submission to match your institution's rules.
 
 ## Folder structure
 ```
